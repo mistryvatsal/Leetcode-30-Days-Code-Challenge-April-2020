@@ -7,13 +7,13 @@ Repository containing my solutions to 30 Days Code Challenge April-2020 on Leetc
 
 ### Week-1
 
-* [1-Single Number](https://github.com/mistryvatsal/Leetcode-30-Days-Code-Challenge-April-2020/tree/master/Week1/1%20-%20Single%20Number)
+* [1-Single Number](Week1/1%20-%20Single%20Number)
 * [2-Happy Number](Week1/2%20-%20Happy%20Number)
-* [3-Maximum SubArray]()
-* [4-Move Zeroes]()
-* [5-Best Time to Buy and Sell Stock II]()
-* [6-Group Anagrams]()
-* [7-Counting Elements]()
+* [3-Maximum SubArray](Week1/3%20-%20Maximum%20SubArray)
+* [4-Move Zeroes](Week1/4%20-%20Move%20Zeroes)
+* [5-Best Time to Buy and Sell Stock II](Week1/5%20-%20Best%20Time%20to%20Buy%20and%20Sell%20Stocks%20II)
+* [6-Group Anagrams](Week1/6%20-%20Group%20Anagrams)
+* [7-Counting Elements](Week1/7%20-%20Couting%20Elements)
 
 
 ### Week-2
