@@ -38,5 +38,5 @@ Open to contributions with interesting and more efficient solutions for the prob
 
 ## Author
 
-**Vatsal Mistry** [mistryvatsal.github.io](https://mistryvatsal.github.io)
+[**Vatsal Mistry**](https://mistryvatsal.github.io)
 
