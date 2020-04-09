@@ -11,15 +11,15 @@ Repository containing my solutions to 30 Days Code Challenge April-2020 on Leetc
 * [2-Happy Number](Week1/2%20-%20Happy%20Number)
 * [3-Maximum SubArray](Week1/3%20-%20Maximum%20SubArray)
 * [4-Move Zeroes](Week1/4%20-%20Move%20Zeroes)
-* [5-Best Time to Buy and Sell Stock II](Week1/5%20-%20Best%20Time%20to%20Buy%20and%20Sell%20Stocks%20II)
+* [5-Best Time to Buy and Sell Stock II](Week1/5%20-%20Best%20Time%20to%20Buy%20and%20Sell%20Stock%20II)
 * [6-Group Anagrams](Week1/6%20-%20Group%20Anagrams)
-* [7-Counting Elements](Week1/7%20-%20Couting%20Elements)
+* [7-Counting Elements](Week1/7%20-%20Counting%20Elements)
 
 
 ### Week-2
 
-* [1-Middle of the Linked List]()
-* [2-Backspace String Compare]()
+* [1-Middle of the Linked List](Week2/1%20-%20Middle%20of%20the%20Linked%20List)
+* [2-Backspace String Compare](Week2/2%20-%20Backspace%20String%20Compare)
 
 
 ### Week-3
