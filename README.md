@@ -21,6 +21,8 @@ Repository containing my solutions to 30 Days Code Challenge April-2020 on Leetc
 * [1-Middle of the Linked List](Week2/1%20-%20Middle%20of%20the%20Linked%20List)
 * [2-Backspace String Compare](Week2/2%20-%20Backspace%20String%20Compare)
 * [3-Min Stack](Week2/3%20-%20Min%20Stack)
+* [4-Diameter of Binary Tree](Week2/4%20-%20Diameter%20of%20Binary%20Tree)
+* [5-Last Stone Weight](Week2/5%20-%20Last%20Stone%20Weight)
 
 
 <!-- 
