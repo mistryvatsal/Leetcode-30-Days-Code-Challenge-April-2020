@@ -23,6 +23,7 @@ Repository containing my solutions to 30 Days Code Challenge April-2020 on Leetc
 * [3-Min Stack](Week2/3%20-%20Min%20Stack)
 * [4-Diameter of Binary Tree](Week2/4%20-%20Diameter%20of%20Binary%20Tree)
 * [5-Last Stone Weight](Week2/5%20-%20Last%20Stone%20Weight)
+* [6-Contiguous Array](Week2/6%20-%20Contiguous%20Array)
 
 
 <!-- 
