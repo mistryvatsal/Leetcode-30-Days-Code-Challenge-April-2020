@@ -27,11 +27,11 @@ Repository containing my solutions to 30 Days Code Challenge April-2020 on Leetc
 * [7-Perform String Shifts](Week2/7%20-%20Perform%20String%20Shifts)
 
 
-<!-- 
 ### Week-3
 
+* [1-Product of Array Except Self](Week3/1%20-%20Product%20of%20Array%20Except%20Self)
 
-
+<!-- 
 ### Week-4 -->
 
 
