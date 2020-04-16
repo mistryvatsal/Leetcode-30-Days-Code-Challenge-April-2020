@@ -30,6 +30,7 @@ Repository containing my solutions to 30 Days Code Challenge April-2020 on Leetc
 ### Week-3
 
 * [1-Product of Array Except Self](Week3/1%20-%20Product%20of%20Array%20Except%20Self)
+* [2-Valid Parenthesis String](Week3/2%20-%20Valid%20Parenthesis%20String)
 
 <!-- 
 ### Week-4 -->
