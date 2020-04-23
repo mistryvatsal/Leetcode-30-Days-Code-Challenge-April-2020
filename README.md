@@ -55,4 +55,3 @@ Open to contributions with interesting and more efficient solutions for the prob
 ## Author
 
 [**Vatsal Mistry**](https://mistryvatsal.github.io)
-
