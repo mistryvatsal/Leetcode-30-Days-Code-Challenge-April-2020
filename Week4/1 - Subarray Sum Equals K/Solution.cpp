@@ -34,6 +34,30 @@ public:
         }
         return count;
     }
+
+    int subarraySum_Order_N(vector<int> &nums, int k) {
+        int left=0, right=0, count=0;
+        int curr_sum=0;
+        int N = nums.size();
+        while (left < N && right < N) {
+            if(curr_sum < k) {
+                curr_sum += nums[right];
+                right += 1;
+            }
+            else if(curr_sum > k){
+                curr_sum -= nums[left];
+                left += 1;
+            }
+            else {
+                count++;
+                curr_sum=0;
+            }
+        }
+        if(curr_sum == k) {
+                count += 1;
+        }
+        return count; 
+    }
 };
 
 //Sample input case
@@ -41,6 +65,6 @@ int main()
 {
     Solution obj;
     vector<int> v = {1, 2, 3};
-    cout << obj.subarraySum(v, 3) << endl;
+    cout << obj.subarraySum_Order_N(v, 3) << endl;
     return 0;
 }
