@@ -35,10 +35,16 @@ Repository containing my solutions to 30 Days Code Challenge April-2020 on Leetc
 * [4-Minimum Path Sum](Week3/4%20-%20Minimum%20Path%20Sum)
 * [5-Search in Rotated Sorted Array](Week3/5%20-%20Search%20in%20Rotated%20Sorted%20Array)
 * [6-Construct Binary Search Tree from Preorder Traversal](Week3/6%20-%20Construct%20Binary%20Search%20Tree%20from%20Preorder%20Traversal)
+* [7-Leftmost Column with atleast a One](Week3/7%20-%20Leftmost%20Column%20with%20atleast%20a%20One)
 
 
-<!-- 
-### Week-4 -->
+
+### Week-4
+
+* [1-Subarray Sum Equals K](Week4/1%20-%20Subarray%20Sum%20Equals%20K)
+* [2-Bitwise AND of Numbers Range](Week4/2%20-%20Bitwise%20AND%20of%20Numbers%20Range)
+
+
 
 
 
