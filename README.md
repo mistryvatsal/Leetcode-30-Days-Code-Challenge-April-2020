@@ -38,7 +38,6 @@ Repository containing my solutions to 30 Days Code Challenge April-2020 on Leetc
 * [7-Leftmost Column with atleast a One](Week3/7%20-%20Leftmost%20Column%20with%20atleast%20a%20One)
 
 
-
 ### Week-4
 
 * [1-Subarray Sum Equals K](Week4/1%20-%20Subarray%20Sum%20Equals%20K)
