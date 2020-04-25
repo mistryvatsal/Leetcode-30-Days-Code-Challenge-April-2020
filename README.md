@@ -43,6 +43,7 @@ Repository containing my solutions to 30 Days Code Challenge April-2020 on Leetc
 * [1-Subarray Sum Equals K](Week4/1%20-%20Subarray%20Sum%20Equals%20K)
 * [2-Bitwise AND of Numbers Range](Week4/2%20-%20Bitwise%20AND%20of%20Numbers%20Range)
 * [3-LRU Cache](Week4/3%20-%20LRU%20Cache)
+* [4-Jump Game](Week4/4%20-%20Jump%20Game)
 
 
 
